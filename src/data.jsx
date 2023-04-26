@@ -11,7 +11,7 @@ const stdData = [
     bestFrds: "Deepika ,jessy grace",
     msg: "Word hard to reach your ambition and enjoy every moment in your 🥰	life",
     img: "https://firebasestorage.googleapis.com/v0/b/becspark-1f0d0.appspot.com/o/Studimages%2FL20AIT521.jpg?alt=media&token=fb5cfd93-58af-4245-9697-fd6d518c988d",
-    aud: "http://mp3teluguwap.net/mp3/2021/Nallamala/1%20-%20Yemunnave%20Pilla%20-%20SenSongsMp3.mp3",
+    aud: "https://newteluguringtones.com/jdownloads/Telugu%20Love%20BGM%20Ringtones/saranga%20dariya%20bgm%20%20%20Telugu%20ringtones%20new%20%20%20new%20ringtone.mp3",
   },
   {
     regNo: "L20AIT522",
