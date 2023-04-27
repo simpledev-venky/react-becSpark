@@ -93,6 +93,7 @@ header {
   margin-bottom: 1em;
   position: fixed;
   top: 0;
+  z-index: 10;
 }
 .title {
   background-color: #000;
