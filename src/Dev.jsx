@@ -1,6 +1,9 @@
 import React from 'react'
 import pic from "./assets/1.jpg"
+import { useNavigate } from 'react-router-dom'
+
 const Dev = () => {
+  const nav = useNavigate()
   return (
     <>
      <div className="container2">

@@ -11,6 +11,7 @@ const App = () => {
   return(
     <>
       <Navbar />
+      <main className="main">
       <Routes>
         <Route path='/' element={<Bec/>}/>
         <Route path='/:id' element={
@@ -22,6 +23,7 @@ const App = () => {
         <Route path='/dev' element = {<Dev/>} />
         <Route path='*' element = {<Notfound/>} />
       </Routes>
+      </main>
     </>
   
   )
